@@ -1,0 +1,2 @@
+- **Ley 1581 de 2012**: Ambos marcos apoyan el cumplimiento de la normativa de protección de datos personales.  
+- **Circular Externa 007 de 2018 (Superfinanciera)**: ISO/IEC 27001 brinda estructura formal y NIST CSF ayuda a evaluar la madurez en ciberseguridad. 

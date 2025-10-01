@@ -1,0 +1,3 @@
+- ISO/IEC 27001 es **certificable**, mientras que NIST CSF no lo es.  
+- ISO/IEC 27001 se enfoca en un **SGSI estructurado**; NIST CSF en **flexibilidad y madurez**.  
+- ISO/IEC 27001 tiene un **alcance normativo internacional**; NIST CSF está orientado principalmente a **infraestructura crítica de EE. UU.**, aunque su adopción es global.  

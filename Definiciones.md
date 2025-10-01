@@ -1,0 +1,2 @@
+- **ISO/IEC 27001**: Norma internacional certificable que establece requisitos para un Sistema de Gestión de Seguridad de la Información (SGSI).  
+- **NIST CSF**: Marco de ciberseguridad flexible y gratuito, orientado a la gestión de riesgos y a la mejora continua.
