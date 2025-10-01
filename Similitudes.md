@@ -1,0 +1,3 @@
+- Ambos promueven la **gestión de riesgos** como eje central.  
+- Se basan en **controles de seguridad y buenas prácticas**.  
+- Son aplicables a organizaciones de **distintos tamaños y sectores**.  
