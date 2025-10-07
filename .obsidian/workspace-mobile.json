@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Cuestionario"
             }
+          },
+          {
+            "id": "692d1d23b306ad18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nueva nota.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nueva nota"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cuestionario.md",
+            "file": "Nueva nota.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbe5445d87fcaf02",
+  "active": "692d1d23b306ad18",
   "lastOpenFiles": [
-    "Nota nueva.md",
     "Cuestionario.md",
+    "Nueva nota.md",
+    "Nota nueva.md",
     "Cuestionario - Pruebas de cambios.md",
     "Tabla de comparación.md",
     "Tabla de contenido.base",
